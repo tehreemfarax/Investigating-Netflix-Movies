@@ -8,7 +8,7 @@ This project involves exploratory data analysis on Netflix data to understand po
 
 Contents:
 - netflix_data.csv: CSV file containing Netflix data.
-- netflix_analysis.ipynb: Jupyter Notebook containing Python code for data analysis.
+- notebook (1).ipynb: Jupyter Notebook containing Python code for data analysis.
 - README.txt: This file, providing an overview of the project.
 
 Steps:
